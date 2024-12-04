@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="HasShowEmailGuideV2" value="1" />
+    <string name="168414007_p10_unlock">True</string>
+    <int name="168414007_c30_level" value="0" />
+    <string name="168414007_has_save_date">False</string>
+    <int name="168414007_c8_skin8" value="0" />
+    <string name="168414007_p44_unlock">True</string>
+    <int name="168414007_c8_skin7" value="1" />
+    <int name="168414007_c8_skin9" value="1" />
+    <int name="168414007_c8_skin4" value="1" />
+    <int name="168414007_c8_skin3" value="1" />
+    <int name="168414007_c8_skin6" value="1" />
+    <int name="168414007_c8_skin5" value="1" />
+    <int name="168414007_c8_skin0" value="1" />
+    <int name="168414007_c8_skin2" value="1" />
+    <int name="168414007_c8_skin1" value="1" />
+    <int name="168414007_c12_skin19" value="1" />
+    <int name="168414007_c12_skin18" value="1" />
+    <int name="168414007_c12_skin17" value="1" />
+    <int name="168414007_c12_skin16" value="1" />
+    <int name="168414007_c12_skin15" value="1" />
+    <int name="168414007_c12_skin14" value="1" />
+    <int name="168414007_c9_level" value="1" />
+    <int name="168414007_c12_skin13" value="1" />
+    <int name="168414007_c12_skin12" value="1" />
+    <int name="168414007_c34_skin0" value="1" />
+    <int name="168414007_c12_skin11" value="1" />
+    <int name="168414007_c34_skin1" value="1" />
+    <int name="168414007_c12_skin10" value="1" />
+    <int name="168414007_c16_skin15" value="1" />
+    <int name="168414007_c16_skin16" value="1" />
+    <int name="168414007_c16_skin17" value="1" />
+    <int name="Screenmanager%20Resolution%20Height" value="1220" />
+    <int name="168414007_c16_skin11" value="1" />
+    <int name="168414007_c16_skin12" value="1" />
+    <int name="168414007_c16_skin13" value="1" />
+    <string name="168414007_c28_unlock">True</string>
+    <int name="168414007_c16_skin14" value="1" />
+    <string name="168414007_c5_unlock">True</string>
+    <string name="168414007_c9_unlock">True</string>
+    <string name="168414007_c1_unlock">True</string>
+    <string name="168414007_p21_unlock">True</string>
+    <int name="LOCALhas_season_data" value="1" />
+    <string name="168414007_p40_unlock">True</string>
+    <string name="168414007_p29_unlock">True</string>
+    <int name="168414007_c3_skin8" value="1" />
+    <int name="168414007_c3_skin9" value="1" />
+    <int name="168414007_c0_skin24" value="1" />
+    <int name="168414007_c3_skin6" value="1" />
+    <int name="168414007_c0_skin23" value="1" />
+    <int name="168414007_c3_skin7" value="1" />
+    <int name="168414007_c0_skin26" value="1" />
+    <int name="168414007_c3_skin4" value="1" />
+    <int name="168414007_c0_skin25" value="1" />
+    <int name="168414007_c3_skin5" value="1" />
+    <string name="168414007_p25_unlock">True</string>
+    <int name="168414007_c0_skin20" value="1" />
+    <int name="168414007_c3_skin2" value="1" />
+    <int name="168414007_c3_skin3" value="1" />
+    <string name="168414007_p14_unlock">True</string>
+    <int name="168414007_c0_skin22" value="0" />
+    <int name="168414007_c3_skin0" value="1" />
+    <string name="168414007_p18_unlock">True</string>
+    <int name="168414007_c0_skin21" value="-6" />
+    <int name="168414007_c3_skin1" value="2000" />
+    <string name="168414007_c24_unlock">True</string>
+    <string name="168414007_c31_unlock">True</string>
+    <string name="168414007_c20_unlock">True</string>
+    <string name="168414007_c17_unlock">True</string>
+    <int name="168414007_c4_level" value="0" />
+    <int name="168414007_local_season_box_factor" value="980823688" />
+    <string name="168414007_c13_unlock">True</string>
+    <int name="168414007_c13_skin0" value="1" />
+    <int name="168414007_c23_skin2" value="12000" />
+    <int name="168414007_last_recode_enter_ui_title" value="9103" />
+    <int name="168414007_c23_skin3" value="1" />
+    <int name="168414007_c13_skin2" value="-4" />
+    <int name="168414007_c23_skin0" value="1" />
+    <int name="168414007_c13_skin1" value="0" />
+    <int name="168414007_c23_skin1" value="0" />
+    <int name="168414007_c27_level" value="0" />
+    <int name="168414007_c0_skin17" value="9999" />
+    <int name="168414007_c24_skin10" value="15000" />
+    <int name="168414007_c0_skin16" value="233" />
+    <int name="168414007_c0_skin19" value="-13" />
+    <int name="168414007_c0_skin18" value="9999" />
+    <int name="168414007_c0_skin13" value="8000" />
+    <int name="168414007_c0_skin12" value="-8" />
+    <int name="168414007_c0_skin15" value="0" />
+    <int name="168414007_c0_skin14" value="0" />
+    <int name="168414007_c0_skin11" value="15000" />
+    <int name="168414007_c5_skin21" value="-12" />
+    <int name="168414007_c0_skin10" value="8000" />
+    <int name="168414007_c5_skin20" value="-13" />
+    <int name="168414007_c5_skin16" value="-13" />
+    <int name="168414007_c5_skin15" value="-8" />
+    <int name="HasMovedData_168414007" value="1" />
+    <int name="168414007_c5_skin14" value="0" />
+    <int name="168414007_c5_skin13" value="0" />
+    <int name="168414007_c5_skin19" value="0" />
+    <int name="168414007_c8_skin18" value="0" />
+    <int name="168414007_c5_skin18" value="12000" />
+    <int name="168414007_c8_skin17" value="-6" />
+    <int name="168414007_c5_skin17" value="-10" />
+    <int name="168414007_c8_skin16" value="-13" />
+    <int name="168414007_c13_skin8" value="-6" />
+    <int name="168414007_c13_skin7" value="12000" />
+    <int name="168414007_c23_skin8" value="0" />
+    <int name="168414007_c13_skin9" value="-1" />
+    <int name="168414007_c13_skin4" value="-5" />
+    <int name="168414007_c23_skin6" value="0" />
+    <int name="168414007_c13_skin3" value="0" />
+    <int name="168414007_c23_skin7" value="-13" />
+    <int name="168414007_c13_skin6" value="-5" />
+    <int name="168414007_c23_skin4" value="-13" />
+    <int name="168414007_c13_skin5" value="0" />
+    <int name="168414007_c23_skin5" value="-10" />
+    <string name="168414007_p26_unlock">True</string>
+    <string name="open_bgm">True</string>
+    <int name="168414007_HasForceRefreshWeaponCommodities" value="1" />
+    <string name="168414007_p37_unlock">True</string>
+    <string name="LastConfigBranch">GP</string>
+    <int name="168414007_c8_skin15" value="0" />
+    <int name="168414007_c8_skin14" value="-13" />
+    <int name="168414007_c8_skin13" value="-10" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="168414007_c8_skin12" value="0" />
+    <int name="168414007_c8_skin11" value="-4" />
+    <int name="168414007_c8_skin10" value="0" />
+    <string name="168414007_c32_unlock">True</string>
+    <int name="168414007_c2_level" value="0" />
+    <int name="168414007_c16_skin10" value="0" />
+    <int name="168414007_c32_level" value="0" />
+    <int name="168414007_c15_skin9" value="12000" />
+    <int name="168414007_c13_skin10" value="0" />
+    <int name="168414007_c13_skin11" value="0" />
+    <int name="168414007_c13_skin12" value="10000" />
+    <int name="168414007_last_play_time" value="9103" />
+    <int name="168414007_c13_skin13" value="0" />
+    <int name="168414007_c13_skin14" value="15000" />
+    <int name="168414007_c13_skin15" value="-6" />
+    <int name="168414007_c13_skin16" value="0" />
+    <int name="168414007_c15_skin2" value="0" />
+    <int name="168414007_c21_skin0" value="1" />
+    <int name="168414007_c13_skin17" value="-13" />
+    <int name="168414007_c15_skin1" value="8000" />
+    <string name="168414007_p9_unlock">True</string>
+    <int name="168414007_c13_skin18" value="0" />
+    <int name="168414007_c15_skin4" value="-4" />
+    <int name="168414007_c13_skin19" value="-5" />
+    <int name="168414007_c15_skin3" value="12000" />
+    <int name="168414007_c15_skin6" value="0" />
+    <int name="168414007_c15_skin5" value="-5" />
+    <int name="168414007_c29_level" value="0" />
+    <int name="168414007_c15_skin8" value="15000" />
+    <int name="168414007_has_monsrise_data" value="1" />
+    <int name="168414007_c15_skin7" value="10000" />
+    <int name="168414007_c5_skin8" value="-5" />
+    <int name="168414007_c5_skin9" value="6000" />
+    <int name="168414007_c5_skin6" value="0" />
+    <string name="168414007_p6_unlock">True</string>
+    <int name="168414007_c5_skin7" value="0" />
+    <string name="total_enter_game_count_today">9103_8</string>
+    <int name="168414007_gems" value="1000" />
+    <int name="168414007_c15_skin0" value="1" />
+    <int name="168414007_c5_skin0" value="1" />
+    <int name="168414007_c5_skin1" value="2000" />
+    <string name="ChillyRoom%20Services%20SDK%20-%20I2%20Language">Russian</string>
+    <int name="168414007_c5_skin4" value="2000" />
+    <int name="168414007_c5_skin5" value="5000" />
+    <int name="168414007_c5_skin2" value="5000" />
+    <int name="168414007_c5_skin3" value="0" />
+    <int name="168414007_c6_skin0" value="1" />
+    <string name="168414007_skill_demo_switch">True</string>
+    <int name="168414007_today_open_chckin_count" value="0" />
+    <int name="168414007_c6_skin2" value="0" />
+    <int name="168414007_c6_skin1" value="2000" />
+    <int name="168414007_has_tutorial" value="1" />
+    <int name="168414007_c6_skin4" value="2000" />
+    <int name="168414007_c6_skin3" value="2000" />
+    <int name="168414007_c11_level" value="0" />
+    <int name="168414007_c6_skin6" value="0" />
+    <int name="168414007_c6_skin5" value="5000" />
+    <int name="168414007_c6_skin8" value="0" />
+    <int name="168414007_c6_skin7" value="-5" />
+    <string name="168414007_p1_unlock">True</string>
+    <int name="LOCALhas_statistic_data" value="1" />
+    <int name="168414007_c5_skin12" value="0" />
+    <int name="168414007_c5_skin11" value="0" />
+    <int name="168414007_c6_skin9" value="0" />
+    <int name="168414007_magic_stone_index" value="0" />
+    <int name="168414007_c5_skin10" value="15000" />
+    <int name="168414007_c1_level" value="0" />
+    <string name="unity.player_sessionid">76539316939741853</string>
+    <int name="168414007_c20_level" value="7" />
+    <int name="168414007_today_open_activity_checkin_count" value="0" />
+    <int name="168414007_c13_level" value="0" />
+    <int name="168414007_c33_level" value="0" />
+    <int name="168414007_c11_skin20" value="0" />
+    <int name="168414007_c18_level" value="7" />
+    <int name="HasShowGpIosGuide" value="1" />
+    <string name="SdkStateCache%231">%7B%0A%20%20%22User%22%3A%20%7B%0A%20%20%20%20%22Id%22%3A%20168414007%2C%0A%20%20%20%20%22CreatedAt%22%3A%20%222024-12-02T09%3A11%3A51%2B08%3A00%22%2C%0A%20%20%20%20%22AccountName%22%3A%20null%2C%0A%20%20%20%20%22Email%22%3A%20%22redlihe88%40gmail.com%22%2C%0A%20%20%20%20%22Phone%22%3A%20null%2C%0A%20%20%20%20%22IsEmailValidated%22%3A%20true%2C%0A%20%20%20%20%22GooglePlay%22%3A%20%7B%7D%2C%0A%20%20%20%20%22Apple%22%3A%20null%2C%0A%20%20%20%20%22AppleGameCenter%22%3A%20%7B%7D%2C%0A%20%20%20%20%22NativeUserInfo%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22Email%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22LegacyGateway%22%3A%20%7B%0A%20%20%20%20%20%20%22host%22%3A%20%22legacy-save.soulknight.chillyroom.com%22%2C%0A%20%20%20%20%20%20%22token%22%3A%20%2205b2fce7c7214c03b6d363ee409c879a%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22PlayerId%22%3A%20233171919%2C%0A%20%20%20%20%22BetaAccess%22%3A%20true%2C%0A%20%20%20%20%22Banned%22%3A%20false%2C%0A%20%20%20%20%22RemainingBanTime%22%3A%200%2C%0A%20%20%20%20%22IsNewUser%22%3A%20false%0A%20%20%7D%2C%0A%20%20%22Session%22%3A%20%7B%0A%20%20%20%20%22Token%22%3A%20%2205b2fce7c7214c03b6d363ee409c879a%22%2C%0A%20%20%20%20%22Expire%22%3A%20%222024-12-10T10%3A56%3A10%22%2C%0A%20%20%20%20%22LoginBy%22%3A%20%22Email%22%0A%20%20%7D%0A%7D</string>
+    <string name="168414007_p15_unlock">True</string>
+    <int name="168414007_achievement_weapon" value="1" />
+    <string name="168414007_p17_unlock">True</string>
+    <string name="has_read_announcement_list_new">c3919f12-6855-438a-8ca3-e4a70cfa4297</string>
+    <string name="168414007_p11_unlock">True</string>
+    <string name="168414007_c25_unlock">True</string>
+    <int name="parse_LoginType" value="1" />
+    <int name="168414007_c17_skin0" value="1" />
+    <string name="168414007_c14_unlock">True</string>
+    <string name="168414007_c18_unlock">True</string>
+    <string name="168414007_c29_unlock">True</string>
+    <int name="168414007_first_play" value="1" />
+    <int name="168414007_general_random_seed" value="632253612" />
+    <int name="168414007_c25_skin5" value="-13" />
+    <int name="168414007_c19_level" value="7" />
+    <int name="168414007_c25_skin4" value="-5" />
+    <int name="168414007_c25_level" value="0" />
+    <int name="168414007_c25_skin3" value="-10" />
+    <int name="168414007_c25_skin2" value="-13" />
+    <int name="168414007_var_gems" value="1000" />
+    <string name="168414007_c6_unlock">True</string>
+    <int name="168414007_c25_skin7" value="18000" />
+    <int name="168414007_c25_skin6" value="0" />
+    <int name="168414007_c25_skin1" value="9999" />
+    <string name="168414007_p3_unlock">True</string>
+    <int name="168414007_c25_skin0" value="1" />
+    <string name="168414007_p7_unlock">True</string>
+    <int name="168414007_c26_level" value="0" />
+    <string name="168414007_p43_unlock">True</string>
+    <int name="need_guide_season_or_defence" value="0" />
+    <int name="168414007_c18_skin0" value="1" />
+    <int name="168414007_c24_skin7" value="-13" />
+    <int name="168414007_c24_skin8" value="0" />
+    <int name="168414007_c24_skin9" value="-10" />
+    <int name="168414007_c24_skin3" value="-1" />
+    <int name="168414007_c24_skin4" value="-10" />
+    <int name="168414007_c24_skin5" value="-1" />
+    <int name="168414007_c24_skin6" value="0" />
+    <int name="168414007_has_item_data" value="1" />
+    <int name="168414007_today_open_veteran_checkin_count" value="0" />
+    <int name="168414007_today_open_activity_bug_count" value="0" />
+    <int name="168414007_c14_level" value="0" />
+    <int name="168414007_c11_skin18" value="-13" />
+    <int name="168414007_c11_skin19" value="-6" />
+    <int name="168414007_c11_skin16" value="12000" />
+    <int name="168414007_c11_skin17" value="0" />
+    <int name="168414007_c11_skin14" value="-10" />
+    <int name="168414007_c11_skin15" value="-13" />
+    <int name="168414007_c11_skin12" value="0" />
+    <int name="168414007_c11_skin13" value="0" />
+    <int name="168414007_c24_skin0" value="1" />
+    <int name="168414007_c11_skin10" value="0" />
+    <int name="168414007_c24_skin1" value="0" />
+    <int name="168414007_c11_skin11" value="0" />
+    <int name="168414007_c24_skin2" value="-13" />
+    <int name="168414007_c9_skin20" value="-10" />
+    <int name="168414007_c9_skin21" value="-13" />
+    <int name="168414007_c33_skin3" value="0" />
+    <int name="168414007_c9_skin22" value="-19" />
+    <int name="168414007_c33_skin2" value="-13" />
+    <int name="168414007_has_statistic_data" value="1" />
+    <int name="168414007_c9_skin23" value="-19" />
+    <int name="168414007_c17_level" value="7" />
+    <int name="168414007_c33_skin1" value="0" />
+    <int name="168414007_c33_skin0" value="1" />
+    <string name="open_effect">True</string>
+    <int name="168414007_c3_skin21" value="1" />
+    <int name="168414007_c26_skin0" value="1" />
+    <int name="168414007_c3_skin20" value="0" />
+    <int name="168414007_c3_skin12" value="0" />
+    <int name="168414007_c4_skin14" value="-5" />
+    <int name="168414007_c26_skin2" value="9999" />
+    <int name="168414007_c30_skin5" value="0" />
+    <int name="168414007_c3_skin11" value="-8" />
+    <int name="168414007_c4_skin15" value="12000" />
+    <int name="168414007_c26_skin1" value="0" />
+    <int name="168414007_c30_skin4" value="0" />
+    <string name="LegacyOrders%231">%5B%5D</string>
+    <string name="LastGatewaySvrIP_Port">bGVnYWN5LXNhdmUuc291bGtuaWdodC5jaGlsbHlyb29tLmNvbV80NDM%3D</string>
+    <int name="168414007_c3_skin14" value="0" />
+    <int name="168414007_c4_skin12" value="9999" />
+    <int name="168414007_c26_skin4" value="-13" />
+    <int name="168414007_c3_skin13" value="0" />
+    <int name="168414007_c4_skin13" value="-13" />
+    <int name="168414007_c26_skin3" value="12000" />
+    <int name="168414007_c3_skin16" value="-10" />
+    <int name="168414007_c4_skin18" value="4000" />
+    <int name="168414007_c26_skin6" value="0" />
+    <int name="168414007_c30_skin1" value="12000" />
+    <int name="168414007_c3_skin15" value="-4" />
+    <int name="168414007_c26_skin5" value="-13" />
+    <int name="168414007_c30_skin0" value="1" />
+    <int name="168414007_c3_skin18" value="-6" />
+    <int name="168414007_c4_skin16" value="-12" />
+    <int name="168414007_c30_skin3" value="-13" />
+    <int name="168414007_c3_skin17" value="-13" />
+    <int name="168414007_c4_skin17" value="-13" />
+    <int name="168414007_c26_skin7" value="-5" />
+    <int name="168414007_c30_skin2" value="-13" />
+    <int name="168414007_c9_skin17" value="0" />
+    <string name="168414007_p32_unlock">True</string>
+    <int name="168414007_c3_skin19" value="0" />
+    <int name="168414007_c9_skin18" value="-13" />
+    <int name="168414007_c9_skin19" value="-10" />
+    <int name="168414007_c8_level" value="0" />
+    <int name="168414007_c29_skin2" value="-13" />
+    <int name="168414007_c29_skin3" value="-13" />
+    <int name="168414007_c29_skin4" value="-5" />
+    <int name="168414007_c29_skin5" value="0" />
+    <int name="168414007_c5_level" value="0" />
+    <int name="168414007_c29_skin0" value="1" />
+    <string name="168414007_p33_unlock">True</string>
+    <int name="168414007_c21_level" value="7" />
+    <int name="168414007_c29_skin1" value="0" />
+    <int name="168414007_last_play_version" value="2145" />
+    <string name="168414007_p2_unlock">True</string>
+    <int name="168414007_c4_skin10" value="0" />
+    <int name="168414007_c29_skin6" value="-6" />
+    <string name="168414007_p22_unlock">True</string>
+    <int name="168414007_c4_skin11" value="12000" />
+    <int name="168414007_last_day_index" value="0" />
+    <int name="168414007_c3_skin23" value="-5" />
+    <int name="168414007_c3_skin22" value="-13" />
+    <int name="168414007_c24_level" value="0" />
+    <string name="168414007_c30_unlock">True</string>
+    <string name="announcement_auto_open_today">2024-12-03</string>
+    <int name="168414007_c6_level" value="0" />
+    <int name="168414007_c31_skin2" value="-13" />
+    <string name="168414007_account_enter_game_count_today">9103_8</string>
+    <string name="168414007_c0_unlock">True</string>
+    <int name="168414007_c31_skin1" value="0" />
+    <int name="168414007_c31_skin0" value="1" />
+    <int name="168414007_c31_skin4" value="0" />
+    <int name="168414007_c31_skin3" value="-10" />
+    <int name="LOCALhas_item_data" value="1" />
+    <int name="168414007_c28_skin4" value="-6" />
+    <int name="168414007_quan_watch_tv" value="0" />
+    <int name="168414007_c28_skin3" value="-13" />
+    <int name="168414007_c16_level" value="0" />
+    <int name="168414007_c28_skin5" value="0" />
+    <int name="168414007_c28_skin0" value="1" />
+    <string name="168414007_tutorial_end_time">638688489329300000</string>
+    <int name="168414007_c28_skin2" value="-13" />
+    <int name="168414007_c28_skin1" value="0" />
+    <int name="168414007_c9_skin10" value="12000" />
+    <int name="168414007_c9_skin11" value="-3" />
+    <int name="168414007_c32_skin1" value="0" />
+    <int name="168414007_c9_skin12" value="8000" />
+    <int name="168414007_c32_skin0" value="1" />
+    <string name="168414007_p27_unlock">True</string>
+    <int name="168414007_c9_skin13" value="0" />
+    <int name="168414007_c32_skin3" value="0" />
+    <int name="168414007_c9_skin14" value="0" />
+    <int name="168414007_c32_skin2" value="-13" />
+    <string name="168414007_p38_unlock">True</string>
+    <int name="168414007_c9_skin15" value="15000" />
+    <int name="168414007_c9_skin16" value="0" />
+    <int name="168414007_cumulative_gems" value="1000" />
+    <string name="168414007_p16_unlock">True</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="168414007_c27_skin6" value="-6" />
+    <int name="168414007_c27_skin5" value="16000" />
+    <int name="168414007_c27_skin4" value="0" />
+    <int name="168414007_c27_skin3" value="-13" />
+    <int name="168414007_c27_skin2" value="-13" />
+    <int name="168414007_c27_skin1" value="0" />
+    <int name="168414007_c7_level" value="0" />
+    <int name="168414007_c27_skin0" value="1" />
+    <string name="168414007_c19_unlock">True</string>
+    <int name="168414007_c22_level" value="0" />
+    <int name="168414007_c_Knight_skill" value="0" />
+    <int name="168414007_c10_level" value="0" />
+    <int name="168414007_c23_level" value="0" />
+    <string name="168414007_today_activity_school_tasks"></string>
+    <int name="LastLoginType" value="4" />
+    <int name="168414007_c14_skin5" value="0" />
+    <int name="168414007_c14_skin4" value="0" />
+    <int name="168414007_c14_skin3" value="10000" />
+    <int name="168414007_first_in_room" value="3" />
+    <int name="168414007_c14_skin2" value="-7" />
+    <int name="168414007_c22_skin0" value="1" />
+    <int name="168414007_c14_skin9" value="0" />
+    <int name="168414007_c22_skin1" value="0" />
+    <int name="168414007_c14_skin8" value="-6" />
+    <int name="168414007_c22_skin2" value="-10" />
+    <int name="168414007_c14_skin7" value="15000" />
+    <int name="168414007_c22_skin3" value="0" />
+    <int name="168414007_c14_skin6" value="-5" />
+    <int name="168414007_c22_skin4" value="-13" />
+    <string name="168414007_set_up_skin">True</string>
+    <string name="cloudSaveId">GP_168414007</string>
+    <int name="168414007_c10_skin18" value="-13" />
+    <int name="168414007_c10_skin17" value="0" />
+    <int name="168414007_c10_skin19" value="0" />
+    <int name="LOCALta_properties_init" value="1" />
+    <int name="168414007_c10_skin14" value="0" />
+    <int name="168414007_c15_level" value="0" />
+    <int name="168414007_c10_skin13" value="-6" />
+    <int name="168414007_c10_skin16" value="-13" />
+    <int name="168414007_c10_skin15" value="-12" />
+    <int name="168414007_c10_skin10" value="0" />
+    <int name="168414007_c22_skin5" value="-10" />
+    <int name="168414007_show_post_man" value="1" />
+    <int name="168414007_last_play_time_with_network_time" value="9103" />
+    <int name="168414007_c22_skin6" value="-13" />
+    <int name="168414007_c10_skin12" value="15000" />
+    <int name="168414007_c22_skin7" value="12000" />
+    <int name="168414007_c10_skin11" value="10000" />
+    <int name="168414007_c22_skin8" value="16000" />
+    <int name="168414007_c14_skin1" value="-5" />
+    <int name="168414007_c14_skin0" value="1" />
+    <int name="168414007_c2_skin9" value="0" />
+    <string name="last_account_id">168414007</string>
+    <int name="168414007_c2_skin1" value="2000" />
+    <string name="FrequentCheckCache_LoginTag">%5B%222024-12-03T18%3A55%3A56.145123%2B08%3A00%22%2C%222024-12-03T18%3A56%3A08.811692%2B08%3A00%22%5D</string>
+    <int name="168414007_c2_skin2" value="5000" />
+    <string name="168414007_p8_unlock">True</string>
+    <int name="168414007_has_season_data" value="1" />
+    <int name="168414007_c2_skin3" value="2000" />
+    <int name="168414007_c2_skin4" value="2000" />
+    <int name="168414007_c2_skin5" value="0" />
+    <int name="168414007_c2_skin6" value="0" />
+    <int name="168414007_c2_skin7" value="-5" />
+    <int name="168414007_c2_skin8" value="8000" />
+    <string name="168414007_p4_unlock">True</string>
+    <string name="LastConfigVersion">6.8.0</string>
+    <int name="168414007_c2_skin0" value="1" />
+    <int name="168414007_c3_level" value="0" />
+    <int name="168414007_c19_skin0" value="1" />
+    <int name="168414007_c31_level" value="0" />
+    <int name="168414007_c7_skin12" value="-5" />
+    <int name="168414007_c7_skin11" value="-8" />
+    <int name="168414007_c7_skin14" value="0" />
+    <int name="168414007_c7_skin13" value="0" />
+    <int name="168414007_c3_skin10" value="0" />
+    <int name="168414007_c7_skin10" value="0" />
+    <int name="168414007_c9_skin1" value="2000" />
+    <int name="168414007_c9_skin0" value="1" />
+    <int name="168414007_c9_skin5" value="0" />
+    <int name="168414007_c9_skin4" value="2000" />
+    <int name="168414007_c9_skin3" value="2000" />
+    <int name="168414007_c9_skin2" value="0" />
+    <int name="168414007_c9_skin9" value="-5" />
+    <int name="168414007_c9_skin8" value="0" />
+    <int name="168414007_c9_skin7" value="0" />
+    <int name="168414007_c9_skin6" value="2000" />
+    <int name="168414007_c7_skin3" value="5000" />
+    <int name="168414007_c7_skin2" value="0" />
+    <int name="168414007_c7_skin1" value="2000" />
+    <int name="168414007_c7_skin0" value="1" />
+    <int name="168414007_c7_skin9" value="0" />
+    <int name="168414007_c7_skin8" value="-4" />
+    <int name="168414007_c7_skin7" value="-5" />
+    <int name="168414007_c7_skin6" value="-4" />
+    <int name="Screenmanager%20Resolution%20Width" value="2712" />
+    <int name="168414007_c7_skin5" value="-3" />
+    <int name="168414007_c7_skin21" value="12000" />
+    <int name="168414007_c2_skin20" value="0" />
+    <int name="168414007_c7_skin4" value="0" />
+    <int name="168414007_c7_skin20" value="-13" />
+    <int name="168414007_c2_skin10" value="8000" />
+    <int name="168414007_c16_skin0" value="1" />
+    <int name="168414007_c2_skin11" value="-4" />
+    <int name="168414007_c7_skin19" value="0" />
+    <int name="168414007_c16_skin1" value="-6" />
+    <int name="168414007_c2_skin12" value="-8" />
+    <int name="168414007_c16_skin2" value="8000" />
+    <int name="168414007_c20_skin0" value="1" />
+    <int name="168414007_c2_skin13" value="10000" />
+    <int name="168414007_c16_skin3" value="0" />
+    <int name="168414007_c2_skin14" value="0" />
+    <int name="168414007_c7_skin16" value="9999" />
+    <int name="168414007_c16_skin4" value="0" />
+    <int name="168414007_c2_skin15" value="0" />
+    <int name="168414007_c7_skin15" value="12000" />
+    <int name="168414007_c16_skin5" value="-5" />
+    <int name="168414007_c2_skin16" value="-13" />
+    <int name="168414007_c7_skin18" value="-6" />
+    <int name="168414007_c16_skin6" value="-5" />
+    <string name="168414007_p31_unlock">True</string>
+    <int name="168414007_c2_skin17" value="0" />
+    <int name="168414007_c7_skin17" value="-13" />
+    <int name="168414007_c16_skin7" value="0" />
+    <int name="168414007_c0_level" value="0" />
+    <int name="168414007_c2_skin18" value="-6" />
+    <int name="168414007_c16_skin8" value="10000" />
+    <int name="168414007_c2_skin19" value="0" />
+    <int name="168414007_c16_skin9" value="0" />
+    <int name="168414007_has_mall_reload_data" value="1" />
+    <string name="168414007_p28_unlock">True</string>
+    <string name="168414007_hero_drawings_data">%7B%22DrawingSwitches%22%3A%7B%22Knight_16%22%3Afalse%7D%2C%22ShowedNewDrawings%22%3A%5B%5D%7D</string>
+    <int name="168414007_c4_skin3" value="0" />
+    <int name="168414007_c4_skin4" value="8000" />
+    <int name="168414007_c4_skin5" value="0" />
+    <int name="168414007_c4_skin6" value="0" />
+    <string name="168414007_c34_unlock">True</string>
+    <int name="168414007_c4_skin0" value="1" />
+    <int name="168414007_c4_skin1" value="2000" />
+    <int name="168414007_c4_skin2" value="5000" />
+    <int name="168414007_last_gems" value="0" />
+    <int name="168414007_c4_skin7" value="-1" />
+    <int name="168414007_c4_skin8" value="-5" />
+    <int name="168414007_c4_skin9" value="8000" />
+    <int name="168414007_c12_level" value="0" />
+    <string name="168414007_c4_unlock">True</string>
+    <string name="168414007_c7_unlock">True</string>
+    <string name="168414007_p20_unlock">True</string>
+    <int name="168414007_enter_ui_title_daily" value="8" />
+    <string name="168414007_p39_unlock">True</string>
+    <string name="168414007_p42_unlock">True</string>
+    <string name="168414007_p34_unlock">True</string>
+    <int name="168414007_retired_knight_today_exchange_times" value="0" />
+    <int name="168414007_c28_level" value="0" />
+    <string name="168414007_p23_unlock">True</string>
+    <int name="168414007_c34_level" value="0" />
+    <int name="168414007_c2_skin21" value="-13" />
+    <string name="168414007_c15_unlock">True</string>
+    <int name="168414007_c2_skin22" value="12000" />
+    <string name="168414007_p12_unlock">True</string>
+    <int name="168414007_c2_skin23" value="0" />
+    <string name="168414007_c26_unlock">True</string>
+    <int name="168414007_c0_skin2" value="1" />
+    <int name="168414007_c0_skin1" value="2000" />
+    <int name="168414007_c0_skin0" value="1" />
+    <string name="local_announcement_list">c3919f12-6855-438a-8ca3-e4a70cfa4297%2C2ef33827-47d6-4060-a122-f258c1ccd0bd%2C11bc5945-ed9a-43e4-92af-24acd145126e</string>
+    <int name="168414007_c0_skin6" value="0" />
+    <int name="168414007_c0_skin5" value="12000" />
+    <int name="168414007_c0_skin4" value="-3" />
+    <int name="168414007_c0_skin3" value="5000" />
+    <int name="168414007_c0_skin9" value="10000" />
+    <int name="168414007_c0_skin8" value="0" />
+    <int name="168414007_c0_skin7" value="-1" />
+    <string name="168414007_p19_unlock">True</string>
+    <int name="168414007_c13_skin20" value="0" />
+    <int name="168414007_c13_skin21" value="-13" />
+    <int name="168414007_c13_skin22" value="0" />
+    <string name="168414007_p13_unlock">True</string>
+    <string name="168414007_c23_unlock">True</string>
+    <string name="168414007_c21_unlock">True</string>
+    <string name="168414007_c27_unlock">True</string>
+    <string name="168414007_c16_unlock">True</string>
+    <string name="168414007_c10_unlock">True</string>
+    <string name="168414007_c12_unlock">True</string>
+    <int name="168414007_c15_skin12" value="-6" />
+    <int name="168414007_c15_skin13" value="-10" />
+    <int name="168414007_cooker_random_seed" value="-1862600026" />
+    <int name="168414007_c15_skin10" value="-13" />
+    <int name="168414007_c15_skin11" value="9999" />
+    <int name="168414007_c15_skin16" value="-10" />
+    <int name="168414007_c15_skin14" value="-10" />
+    <int name="168414007_c15_skin15" value="-13" />
+    <int name="168414007_c11_skin0" value="1" />
+    <int name="168414007_c11_skin1" value="5000" />
+    <string name="168414007_c2_unlock">True</string>
+    <int name="168414007_c11_skin2" value="0" />
+    <int name="168414007_c11_skin3" value="5000" />
+    <int name="168414007_c11_skin4" value="0" />
+    <int name="168414007_c11_skin5" value="0" />
+    <int name="168414007_c11_skin6" value="0" />
+    <string name="UsedAccounts%231">%5B%0A%20%20null%2C%0A%20%20%22redlihe88%40gmail.com%22%0A%5D</string>
+    <int name="168414007_c11_skin7" value="0" />
+    <int name="168414007_c11_skin8" value="15000" />
+    <int name="168414007_c11_skin9" value="15000" />
+    <string name="_movedLocalDataIds_">GP_168414007%2C</string>
+    <string name="168414007_p36_unlock">True</string>
+    <int name="168414007_c12_skin3" value="-4" />
+    <int name="168414007_c12_skin2" value="-1" />
+    <int name="168414007_c12_skin1" value="5000" />
+    <int name="168414007_c12_skin0" value="1" />
+    <string name="unity.cloud_userid">dfc901f58c54f324d816766f61dfaedc</string>
+    <int name="168414007_c12_skin9" value="15000" />
+    <int name="168414007_c12_skin8" value="-6" />
+    <int name="168414007_c12_skin7" value="6000" />
+    <int name="168414007_c12_skin6" value="-5" />
+    <int name="168414007_c12_skin5" value="-1" />
+    <int name="168414007_c12_skin4" value="0" />
+    <int name="168414007_c1_skin19" value="0" />
+    <int name="168414007_c1_skin17" value="-13" />
+    <int name="168414007_c1_skin18" value="-1" />
+    <int name="168414007_c1_skin15" value="-10" />
+    <int name="168414007_c10_skin8" value="6000" />
+    <int name="168414007_c1_skin16" value="0" />
+    <int name="168414007_c10_skin9" value="8000" />
+    <int name="168414007_c1_skin13" value="0" />
+    <int name="168414007_c10_skin6" value="8000" />
+    <int name="168414007_c1_skin14" value="-1" />
+    <int name="168414007_c10_skin7" value="0" />
+    <int name="168414007_c1_skin11" value="-8" />
+    <int name="168414007_c1_skin12" value="-5" />
+    <int name="168414007_c1_skin10" value="0" />
+    <int name="168414007_c6_skin18" value="-6" />
+    <int name="168414007_c10_skin0" value="1" />
+    <int name="168414007_c10_skin1" value="5000" />
+    <int name="168414007_c6_skin14" value="-13" />
+    <int name="168414007_c10_skin4" value="18000" />
+    <string name="168414007_p30_unlock">True</string>
+    <int name="168414007_c6_skin15" value="-10" />
+    <int name="168414007_c10_skin5" value="-5" />
+    <int name="168414007_c6_skin16" value="0" />
+    <int name="168414007_c10_skin2" value="2000" />
+    <int name="168414007_c6_skin17" value="-13" />
+    <int name="168414007_c10_skin3" value="0" />
+    <int name="168414007_c1_skin4" value="0" />
+    <int name="168414007_c1_skin5" value="0" />
+    <int name="168414007_c1_skin2" value="5000" />
+    <int name="168414007_c1_skin3" value="5000" />
+    <int name="168414007_c1_skin8" value="0" />
+    <string name="168414007_cloudSaveId">GP_168414007</string>
+    <int name="168414007_c1_skin9" value="8000" />
+    <int name="168414007_c1_skin6" value="-5" />
+    <string name="168414007_p35_unlock">True</string>
+    <int name="168414007_c1_skin7" value="0" />
+    <int name="168414007_c6_skin10" value="0" />
+    <int name="168414007_c6_skin11" value="15000" />
+    <int name="168414007_c6_skin12" value="-10" />
+    <int name="168414007_c6_skin13" value="0" />
+    <string name="168414007_p0_unlock">True</string>
+    <string name="168414007_p24_unlock">True</string>
+    <int name="168414007_c1_skin22" value="0" />
+    <int name="168414007_c1_skin23" value="0" />
+    <int name="168414007_c1_skin20" value="-16" />
+    <int name="168414007_c1_skin21" value="-13" />
+    <int name="NeedAutoLogin" value="1" />
+    <int name="168414007_c1_skin0" value="1" />
+    <int name="168414007_show_ad_time" value="0" />
+    <int name="168414007_c1_skin1" value="2000" />
+    <int name="168414007_c14_skin10" value="-10" />
+    <string name="168414007_c3_unlock">True</string>
+    <int name="168414007_c14_skin12" value="0" />
+    <int name="168414007_c14_skin11" value="-13" />
+    <int name="168414007_c14_skin14" value="0" />
+    <int name="168414007_c14_skin13" value="-8" />
+    <int name="168414007_c14_skin16" value="-6" />
+    <int name="168414007_c14_skin15" value="-13" />
+    <int name="168414007_c14_skin17" value="0" />
+    <string name="168414007_c8_unlock">True</string>
+    <string name="168414007_p5_unlock">True</string>
+    <string name="168414007_p41_unlock">True</string>
+    <int name="first_active" value="1" />
+    <string name="unity.player_session_count">9</string>
+    <int name="has_setLanguage" value="1" />
+    <int name="hasClearLocalIdGPV4" value="1" />
+    <string name="168414007_c33_unlock">True</string>
+    <string name="168414007_c22_unlock">True</string>
+    <int name="SKIP_DEFENCE_PLOT" value="0" />
+    <string name="168414007_c11_unlock">True</string>
+</map>
